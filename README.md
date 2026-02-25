@@ -1,10 +1,10 @@
 <!-- Header -->
 <div align="center">
-<img src="assets/header.png" width="300" style="vertical-align: middle;" />
+  <img src="assets/header.png" width="300" />
 
-<b style="font-size: 72px; margin-left: 10px; vertical-align: middle;">
-Isanjalee Silva
-</b>
+  <span style="font-size: 64px; margin-left: 40px;">
+    @𝗜𝘀𝗮𝗻𝗷𝗮𝗹𝗲𝗲𝗦𝗶𝗹𝘃𝗮
+  </span>
 </div>
 
 <br>
