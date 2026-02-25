@@ -1,8 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <img src="assets/header-girl.png" width="240" alt="AI Developer Illustration"/>
+  <img src="https://media.giphy.com/media/KDRv2Y6iG4qW0/giphy.gif" width="420" alt="coding pixel art"/>
 </p>
-
 <h1 align="center">Isanjalee Silva</h1>
 
 <p align="center">
