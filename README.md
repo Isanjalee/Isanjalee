@@ -1,8 +1,8 @@
 <!-- Header -->
 <div align="center">
-<img src="assets/header.png" width="220" style="vertical-align: middle;" />
+<img src="assets/header.png" width="300" style="vertical-align: middle;" />
 
-<b style="font-size: 72px; margin-left: 20px; vertical-align: middle;">
+<b style="font-size: 72px; margin-left: 10px; vertical-align: middle;">
 Isanjalee Silva
 </b>
 </div>
