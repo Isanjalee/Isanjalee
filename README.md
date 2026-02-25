@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/KDRv2Y6iG4qW0/giphy.gif" width="420" alt="coding pixel art"/>
+  <img src="assets/header.png" width="700" />
 </p>
 <h1 align="center">Isanjalee Silva</h1>
 
