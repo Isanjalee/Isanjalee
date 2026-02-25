@@ -1,9 +1,13 @@
 <!-- Header -->
-<p align="center">
-  <img src="assets/header.png" width="700" />
-</p>
-<h1 align="center">Isanjalee Silva</h1>
+<div align="center">
+<img src="assets/header.png" width="220" style="vertical-align: middle;" />
 
+<b style="font-size: 72px; margin-left: 20px; vertical-align: middle;">
+Isanjalee Silva
+</b>
+</div>
+
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%28In+Progress%29;Backend+Developer+%7C+Spring+Boot;Frontend+Developer+%7C+React;LLM+Agents+%26+Secure+APIs&center=true&width=700&height=45">
 </p>
@@ -20,24 +24,24 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="50" height="50" />  About Me
 
 I’m a Software Engineer with strong foundations in **backend development using Spring Boot** and expanding expertise in **AI engineering using Python and LLM-based systems**.
 
 I focus on:
 
-- 🤖 Building LLM-powered agents and automation tools
-- 🔐 Designing secure, scalable REST APIs
-- 🧱 Writing clean, production-style architecture
-- ⚛ Creating modern React-based frontend applications
+- Building LLM-powered agents and automation tools
+- Designing secure, scalable REST APIs
+- Writing clean, production-style architecture
+- Creating modern React-based frontend applications
 
 My goal is to combine **AI systems + backend engineering + real product development**.
 
 ---
 
-# 🚀 Core Expertise
+# Core Expertise
 
-## 🤖 AI Engineering
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="50" height="50" />AI Engineering
 
 - Python
 - Ollama (Local LLMs)
@@ -46,7 +50,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 - Structured AI Outputs
 - Local-first AI Applications
 
-## 🔐 Backend Development
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="50" height="50" /> Backend Development
 
 - Java
 - Spring Boot
@@ -57,7 +61,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 - Clean Architecture
 - Unit Testing (JUnit)
 
-## 🎨 Frontend Development
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="50" height="50" /> Frontend Development
 
 - React
 - Redux
@@ -67,7 +71,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,react,redux,ts,mysql,docker,git,github,vscode,idea" />
@@ -75,9 +79,9 @@ My goal is to combine **AI systems + backend engineering + real product developm
 
 ---
 
-# 🔥 Featured Projects
+# Featured Projects
 
-## 🤖 AI Engineer Journey
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> AI Engineer Journey
 
 Structured AI learning + applied implementation path toward AI Engineering.
 
@@ -85,7 +89,7 @@ Structured AI learning + applied implementation path toward AI Engineering.
 
 ---
 
-## 🧘 Calm Day Agent
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> Calm Day Agent
 
 Local-first AI daily planner powered by Ollama.
 
@@ -93,7 +97,7 @@ Local-first AI daily planner powered by Ollama.
 
 ---
 
-## 🔐 Spring Boot Backend System
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> Spring Boot Backend System
 
 Production-style REST APIs with authentication, validation & clean architecture.
 
@@ -101,7 +105,7 @@ Production-style REST APIs with authentication, validation & clean architecture.
 
 ---
 
-## ⚛ React Redux Application
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> React Redux Application
 
 Frontend project focused on state management and performance optimization.
 
@@ -109,17 +113,15 @@ Frontend project focused on state management and performance optimization.
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isanjalee&show_icons=true&theme=github_dark&hide_border=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isanjalee&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Isanjalee/Isanjalee/output/github-contribution-grid-snake-dark.svg" />
@@ -127,7 +129,7 @@ Frontend project focused on state management and performance optimization.
 
 ---
 
-# 🎯 Career Direction
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="45" height="45" /> Career Direction
 
 Actively building toward:
 
@@ -140,7 +142,7 @@ I focus on writing clean, scalable, maintainable and intelligent software system
 
 ---
 
-# 📫 Connect With Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="45" height="45" /> Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/isanjalee-silva
 - Portfolio: https://isanjalee.github.io
