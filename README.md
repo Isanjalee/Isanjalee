@@ -41,7 +41,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 
 # Core Expertise
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="50" height="50" />AI Engineering
+## AI Engineering
 
 - Python
 - Ollama (Local LLMs)
@@ -50,7 +50,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 - Structured AI Outputs
 - Local-first AI Applications
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="50" height="50" /> Backend Development
+## Backend Development
 
 - Java
 - Spring Boot
@@ -61,7 +61,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 - Clean Architecture
 - Unit Testing (JUnit)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="50" height="50" /> Frontend Development
+## Frontend Development
 
 - React
 - Redux
@@ -74,7 +74,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,react,redux,ts,mysql,docker,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,redux,js,ts,mysql,docker,git,github,vscode,idea" />
 </p>
 
 ---
