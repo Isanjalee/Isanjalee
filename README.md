@@ -95,7 +95,7 @@ My goal is to combine **AI systems + backend engineering + real product developm
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="45" height="45" /> Career Direction
+# Career Direction
 
 Actively building toward:
 
