@@ -79,32 +79,6 @@ My goal is to combine **AI systems + backend engineering + real product developm
 
 ---
 
-# Featured Projects
-
-##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> AI Engineer Journey
-
-Structured AI learning + applied implementation path toward AI Engineering: https://github.com/Isanjalee/ai-engineer-journey
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> Calm Day Agent
-
-Local-first AI daily planner powered by Ollama: https://github.com/Isanjalee/calm-day-agent
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> Spring Boot Backend System
-
-Production-style REST APIs with authentication, validation & clean architecture: https://github.com/Isanjalee/springboot-journey
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="45" height="45" /> React Redux Application
-
-Frontend project focused on state management and performance optimization: https://github.com/Isanjalee/react-redux-refresh
-
----
-
 # GitHub Analytics
 
 <p align="center">
