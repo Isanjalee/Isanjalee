@@ -104,8 +104,6 @@ Actively building toward:
 - Full-Stack Developer roles
 - Intelligent system development positions
 
-I focus on writing clean, scalable, maintainable and intelligent software systems.
-
 ---
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="45" height="45" /> Connect With Me
